@@ -89,6 +89,7 @@ Model Context Protocol (MCP) servers enable AI assistants like Claude to interac
 - [marioaldayuz/n8n-highlevel](https://github.com/marioaldayuz/n8n-highlevel) — n8n + HighLevel integration workflow examples.
 - [Zapier GoHighLevel Integration](https://zapier.com/apps/gohighlevel/integrations) — Connect GoHighLevel with 6,000+ apps via Zapier triggers and actions.
 - [Make (Integromat) GoHighLevel Module](https://www.make.com/en/integrations/gohighlevel) — Visual automation platform with native GoHighLevel modules.
+- [Hermes](https://www.buildwithhermes.com) — White-label AI voice agent platform for agencies. Adds inbound/outbound calling agents alongside a GHL-style stack, with per-client workspaces, campaign orchestration, and usage-based billing from $149/mo.
 
 ## Workflow Templates
 
