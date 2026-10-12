@@ -92,7 +92,7 @@ Model Context Protocol (MCP) servers enable AI assistants like Claude to interac
 
 ## Workflow Templates
 
-> Your contribution here! Share your GoHighLevel workflow templates with the community. See [Contributing](#contributing).
+- [getpeacecall/highlevel-agency-templates](https://github.com/getpeacecall/highlevel-agency-templates) — Free MIT-licensed Markdown templates for missed-call text-back (English and Spanish), A2P 10DLC registration, after-hours answering scripts, agency client onboarding and Voice AI prompts.
 
 ## Community Nodes & Plugins
 
